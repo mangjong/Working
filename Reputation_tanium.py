@@ -37,7 +37,7 @@ def write_csv(filename, rows):
 
 def main():
     filename = sys.argv[1]
-    CSV_FILENAME = 'tatnium_Reputation_Result.csv'
+    CSV_FILENAME = 'tanium_Reputation_Result.csv'
     column_number = 4  
     rows = []
     column_values = read_csv_column(filename, column_number)
