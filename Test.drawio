@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T06:34:13.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="olgrRZ-zWl95NA-Miz0b" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T06:37:36.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VPA9XGQ9DpChnPeSzoHA" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,18 +48,14 @@
         <mxCell id="C8NILemeKjBsCW44N4Zh-28" value="악성" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="265" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C8NILemeKjBsCW44N4Zh-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C8NILemeKjBsCW44N4Zh-6" target="C8NILemeKjBsCW44N4Zh-17">
+        <mxCell id="C8NILemeKjBsCW44N4Zh-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C8NILemeKjBsCW44N4Zh-6" target="C8NILemeKjBsCW44N4Zh-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="330" as="sourcePoint" />
             <mxPoint x="170" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="210" y="330" />
-              <mxPoint x="210" y="230" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C8NILemeKjBsCW44N4Zh-33" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="260" width="40" height="30" as="geometry" />
+          <mxGeometry x="170" y="250" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C8NILemeKjBsCW44N4Zh-34" value="VE_FW_원격 접속 허용_자동차단&lt;br&gt;VE_FW_DB 접근 허용_자동차단&lt;br&gt;VE_FW_IP Scanning&lt;br&gt;VE_FW_Port Scanning&lt;br&gt;VE_FW_유해IP 접근 : X-Force" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="80" width="230" height="140" as="geometry" />
