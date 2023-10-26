@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T06:52:17.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eTFh632f4Q4BqBCfbtso" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T06:55:14.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_6F-Wb6YnAfurrQDX8Td" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
           <mxGeometry x="1330" y="60" width="300" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Snq0X9Z72ibjKQlMLjN9-182" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="7.5" y="562" width="762.5" height="378" as="geometry" />
+          <mxGeometry x="7.5" y="421" width="762.5" height="378" as="geometry" />
         </mxCell>
         <mxCell id="Snq0X9Z72ibjKQlMLjN9-89" value="내부 스캔 이벤트 발생" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Snq0X9Z72ibjKQlMLjN9-182">
           <mxGeometry x="16.25" width="140" height="60" as="geometry" />
