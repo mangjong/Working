@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T07:16:00.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fBT9bjAXnWiDx7oAqqz1" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T07:31:31.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nwpx8Ukv7vFKuqVOPnsj" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,8 +300,8 @@
         <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Snq0X9Z72ibjKQlMLjN9-183" target="iR7jlFq-FNkJxQ9GjyBQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Snq0X9Z72ibjKQlMLjN9-183" value="IPS 이벤트 발생" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="Snq0X9Z72ibjKQlMLjN9-183" value="IPS 오펜스/이벤트 &lt;br&gt;발생" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Snq0X9Z72ibjKQlMLjN9-184" value="EPP" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1060" y="680" width="120" height="60" as="geometry" />
@@ -316,22 +316,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-1" value="정 · 오탐" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iR7jlFq-FNkJxQ9GjyBQ-5" target="iR7jlFq-FNkJxQ9GjyBQ-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.5" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iR7jlFq-FNkJxQ9GjyBQ-5" target="iR7jlFq-FNkJxQ9GjyBQ-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-5" value="허용 · 차단" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="247" y="930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-8" value="정탐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="930" width="50" height="30" as="geometry" />
+          <mxGeometry x="200" y="935" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-35" value="정책 개선" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-37" value="오탐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="1000" width="50" height="30" as="geometry" />
+          <mxGeometry x="100" y="1010" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-40" value="다수 탐지에 따른 &lt;br&gt;IP 방화벽 자동 차단" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="439.5" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-42" value="허용" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="356" y="890" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-43" value="차단" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="356" y="1020" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-44" value="정책 차단 전환 &lt;br&gt;여부 확인" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="657" y="875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iR7jlFq-FNkJxQ9GjyBQ-45" value="WAF 탐지&lt;br&gt;유효성 확인" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="439.5" y="865" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
