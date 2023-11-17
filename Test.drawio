@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T06:58:08.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jzIecx0WdNmRw5hvEwlf" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T07:39:50.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yLiJ-MdiIb9Dt4ChoXst" version="22.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
             <mxPoint x="70" y="118.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Snq0X9Z72ibjKQlMLjN9-5" value="300MB 오펜스 발생" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="54cnpvMY1Q8FP-wQ6eYA-88" vertex="1">
+        <mxCell id="Snq0X9Z72ibjKQlMLjN9-5" value="대용량 트래픽 발생" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="54cnpvMY1Q8FP-wQ6eYA-88" vertex="1">
           <mxGeometry x="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Snq0X9Z72ibjKQlMLjN9-8" value="예외 Ref. 갱신 &amp;amp; &lt;br&gt;이력 업데이트" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="54cnpvMY1Q8FP-wQ6eYA-88" vertex="1">
